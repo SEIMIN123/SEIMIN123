@@ -25,9 +25,9 @@
   <br>
   <br>
   
-![SEIMIN-BJJ's github stats](https://github-readme-stats.vercel.app/api?username=SEIMIN-BJJ&show_icons=true)
+![SEIMIN123's github stats](https://github-readme-stats.vercel.app/api?username=SEIMIN123&show_icons=true)
   <br>
 
-[![SEIMIN-BJJ](https://github-readme-stats.vercel.app/api/top-langs/?username=SEIMIN-BJJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![SEIMIN123](https://github-readme-stats.vercel.app/api/top-langs/?username=SEIMIN123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
